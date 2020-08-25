@@ -17,6 +17,8 @@
     "nodemon": "^1.18.9"
   },
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "apollo-boost": "^0.4.9",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.3.0"
   }
 }
